@@ -10,12 +10,12 @@
     "type": "git",
     "url": "https://github.com/srijken/ng-xslx.git"
   },
-  "author": "Sander Rijken",
+  "author": "K V Adhityan",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/srijken/ng-xslx/issues"
+    "url": "https://github.com/game-change/ng-xlsx/issues"
   },
-  "homepage": "https://github.com/srijken/ng-xslx",
+  "homepage": "https://github.com/game-change/ng-xlsx",
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "grunt": "^0.4.5",

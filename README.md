@@ -3,6 +3,8 @@
 Installation
 
     bower install --save angular-xlsx
+    
+    npm install --save ng-xlsx
 
 Usage
 
