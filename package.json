@@ -1,21 +1,21 @@
 {
   "name": "ng-xslx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Angular service for the xslx-js library",
-  "main": "index.js",
+  "main": "angular-xslx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/srijken/ng-xslx.git"
+    "url": "git@github.com:game-change/ng-xslx.git"
   },
   "author": "K V Adhityan",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/game-change/ng-xlsx/issues"
+    "url": "https://github.com/game-change/ng-xslx/issues"
   },
-  "homepage": "https://github.com/game-change/ng-xlsx",
+  "homepage": "https://github.com/game-change/ng-xslx",
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "grunt": "^0.4.5",
